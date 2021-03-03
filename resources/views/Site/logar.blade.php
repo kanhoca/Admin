@@ -62,7 +62,7 @@
         </div><!-- first content -->
         <div class="content second-content">
             <div class="first-column">
-                <h2 class="title title-primary">Olá meu Caro!</h2>
+                <h2 class="title title-primary">Olá meu Caro, Tudo bem?</h2>
                 <p class="description description-primary">Crie a sua conta para ter acsso a </p>
                 <p class="description description-primary">Informações restritas</p>
                 <button id="signup" class="btn btn-primary">sign up</button>
